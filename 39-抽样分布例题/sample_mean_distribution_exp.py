@@ -14,11 +14,11 @@ mean_sample_actual = 110 / sample_nums
 # 样本均值的抽样分布服从均值和标准差如下的正态分布
 ############################################################
 mean_sample_theory = mean_ori
-std_sample = std_ori / (50 ** 0.5)
+std_sample_theory = std_ori / (50 ** 0.5)
 
 ############################################################
 # 根据正态分布，计算Z分数，再计算相应的概率
 ############################################################
-z_score = (mean_sample_actual - mean_sample_theory) / std_sample
+z_score = (mean_sample_actual - mean_sample_theory) / std_sample_theory
 # 查表可得Z分数小于z_score的概率是0.9783
 p = 1 - 0.9783
