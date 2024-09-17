@@ -17,3 +17,6 @@ plt.show()
 
 # 参考：https://www.cnblogs.com/biyoulin/p/9565350.html
 ```
+
+图像显示如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/06-饼图/pic1.png)
