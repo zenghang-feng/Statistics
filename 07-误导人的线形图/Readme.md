@@ -24,4 +24,4 @@ plt.show()
 ```
 
 图像显示如下：  
-![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/07-误导人的线形图/pic1.png)
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/07-误导人的线形图/Figure_1.png)
