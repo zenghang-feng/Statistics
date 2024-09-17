@@ -10,3 +10,6 @@ plt.boxplot(data)
 # 显示图像
 plt.show()
 ```
+
+图像显示如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/09-10-箱线图/pic1.png)
