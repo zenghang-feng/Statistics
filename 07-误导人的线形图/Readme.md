@@ -22,3 +22,6 @@ ax[1].set_title("Percentage of Peple Who Prefer Thrill Soda")
 # 显示图像
 plt.show()
 ```
+
+图像显示如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/07-误导人的线形图/pic1.png)
