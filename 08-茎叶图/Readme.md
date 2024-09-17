@@ -30,3 +30,6 @@ print("Stem | Leaf")
 for k in dit:
     print("  ", k, "|", dit[k])
 ```
+
+图像显示如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/08-茎叶图/pic1.png)
