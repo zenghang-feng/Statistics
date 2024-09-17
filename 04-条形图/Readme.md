@@ -29,3 +29,7 @@ plt.show()
 
 # 参考：https://geek-docs.com/matplotlib/matplotlib-top-tutorials/1019100_matplotlib_bar_plot.html
 ```
+
+图像显示如下：  
+
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/04-条形图/pic1.png)
