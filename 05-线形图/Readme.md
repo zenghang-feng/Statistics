@@ -21,3 +21,6 @@ plt.show()
 
 # 参考：https://geek-docs.com/matplotlib/matplotlib-top-tutorials/1006100_matplotlib_simple_plot.html#google_vignette
 ```
+
+图像显示如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/05-线形图/pic1.png)
