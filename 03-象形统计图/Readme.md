@@ -23,3 +23,6 @@ print("AB - ", AB_subt)
 print(" O + ", O_plus)
 print(" O - ", O_subt)
 ```
+
+图像显示如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/03-象形统计图/pic1.png)
