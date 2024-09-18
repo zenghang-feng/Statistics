@@ -55,3 +55,6 @@ ax.plot(range(6), list_x)
 plt.show()
 #  当前示例下的二项分布的概率分布类似正态分布的钟形曲线
 ```
+
+p=0.5的二项分布概率分布如下：  
+![img](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/19-20-二项分布1和2/Figure_1.png)
