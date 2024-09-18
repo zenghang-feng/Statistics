@@ -40,3 +40,6 @@ prob, err = integrate.quad(func=s_norm_distribute, a=-1, b=1)
 print("正负一个标准差区间内的概率是：", prob)
 # 标准正态分布，正负一个标准差区间内的概率约为0.68
 ```
+
+标准正态分布的概率密度函数图像如下：  
+![image](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/18-概率密度函数/pic1.png)
