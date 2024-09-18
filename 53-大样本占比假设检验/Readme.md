@@ -25,3 +25,6 @@ std_sample_dis = std_population / (sample_nums**0.5)
 z_score = (p - mean_poputation) / std_sample_dis
 # z_score=2.14，95%概率对应的z临界值为1.65，小于2.14，所以拒绝原假设
 ```
+
+# 3.参考
+![img](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/53-大样本占比假设检验/z_分数表.png)
