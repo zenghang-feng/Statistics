@@ -60,3 +60,6 @@ plt.show()
 
 # 每次采样的样本容量 每次采样的样本容量 趋于∞时，抽样分布接近正态分布
 ```
+
+原始分布及2个抽样分布的图像如下：  
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/36-37-样本均值的抽样分布/Figure_1.png)
