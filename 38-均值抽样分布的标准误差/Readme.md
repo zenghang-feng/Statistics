@@ -62,3 +62,7 @@ print("sample_2 std theory = ", np.std(list_population) / np.power(sample_nums, 
 # 均值抽样分布的标准误差 = 原分布的标准误差 / sqrt(样本容量)
 # 样本容量越大，样本均值的抽样分布的标准误差越小
 ```
+
+原始分布和抽样分布的相关参数如下：  
+
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/38-均值抽样分布的标准误差/pic1.png)
