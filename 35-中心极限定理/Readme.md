@@ -26,3 +26,6 @@ plt.show()
 
 # 中心极限定理：样本容量足够大时(n>30），样本均值(样本求和)的分布接近正态分布
 ```
+
+抽样分布的图像如下所示：  
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/35-中心极限定理/Figure_1.png)
