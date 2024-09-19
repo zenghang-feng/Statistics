@@ -31,3 +31,6 @@ ax.grid(True)  # 设置图像背景中的网格
 ax.plot(list_x, list_y)
 plt.show()
 ```
+
+均值为0，标准差为4的正态分布概率密度曲线如下所示：  
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/29-30-正态分布介绍及示例/Figure_1.png)
