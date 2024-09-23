@@ -3,6 +3,6 @@
 
 可以通过决定系数评估线性回归拟合的情况，计算公式如下所示：
 
-
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/68-决定系数/pic1.png)
 ```
 ```
