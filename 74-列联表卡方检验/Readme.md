@@ -3,11 +3,7 @@
 
 3组实验的数据如下：  
 
-----	   药物1	   药物2	   安慰剂  
-
---患病	     20	            30	           30  
-
-未患病       100	           110	           90  
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/74-列联表卡方检验/pic1.png)
 
 请检验2种药物对于预防流感是否有效果？（显著性水平为10%）
 
