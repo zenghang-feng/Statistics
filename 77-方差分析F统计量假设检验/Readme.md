@@ -56,3 +56,6 @@ res = stats.f_oneway(list_1, list_2, list_3)
 # p值为0.008，所以拒绝原假设
 # https://docs.scipy.org.cn/doc/scipy/reference/generated/scipy.stats.f_oneway.html#scipy.stats.f_oneway
 ```
+
+# 3. 参考：显著性水平为0.1的F表
+![i](https://github.com/zenghang-feng/khanacademy_statistics/blob/main/77-方差分析F统计量假设检验/pic_f_分布.png)
