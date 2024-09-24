@@ -14,7 +14,7 @@ xx_mean = np.mean(list_xx)
 xy_mean = np.mean(list_xy)
 
 # 计算参数m、b
-m = (x_mean * y_mean - xy_mean) / (x_mean ** 2 - xx_mean)
+m = (xy_mean - x_mean * y_mean) / (xx_mean - x_mean ** 2)
 b = y_mean - m * x_mean
 
 # 可得最佳拟合曲线为：y = 0.43 * x + 1
