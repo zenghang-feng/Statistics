@@ -1,3 +1,8 @@
+# 1 说明
+
+均值、中位数、众数可以反映样本的记者趋势。
+
+# 2 程序实现
 ```
 import numpy as np
 from scipy import stats
